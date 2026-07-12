@@ -54,6 +54,12 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <!-- MES基础数据模块 -->
+        <dependency>
+            <groupId>com.ruoyi</groupId>
+            <artifactId>rouyi-mes</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
